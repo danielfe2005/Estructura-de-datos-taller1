@@ -1,6 +1,4 @@
-package Clase1;
-
-import com.sun.tools.javac.Main;
+package clase1;
 
 import java.util.ArrayList;
 
